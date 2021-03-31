@@ -16,7 +16,7 @@
   <div style="position: relative; z-index: 2; width: 300px; height: 300px; background: red;"></div>
 </template>
 
-<script>
+<script lang="ts">
 import Dialog from "../lib/Dialog.vue"
 import Button from "../lib/Button.vue";
 import {ref} from "vue";
